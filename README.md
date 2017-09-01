@@ -1,7 +1,7 @@
 # pipefn
 Pipeline Function Creator
 
-[![github](https://img.shields.io/github/followers/willin.svg?style=social&label=Follow)](https://github.com/willin) [![npm](https://img.shields.io/npm/v/pipfn.svg)](https://npmjs.org/package/pipfn) [![npm](https://img.shields.io/npm/dm/pipfn.svg)](https://npmjs.org/package/pipfn) [![npm](https://img.shields.io/npm/dt/pipfn.svg)](https://npmjs.org/package/pipfn) ![size](https://img.shields.io/github/size/willin/pipfn/index.js.svg) ![dep](https://img.shields.io/david/willin/pipfn.svg)
+[![github](https://img.shields.io/github/followers/willin.svg?style=social&label=Follow)](https://github.com/willin) [![npm](https://img.shields.io/npm/v/pipefn.svg)](https://npmjs.org/package/pipefn) [![npm](https://img.shields.io/npm/dm/pipefn.svg)](https://npmjs.org/package/pipefn) [![npm](https://img.shields.io/npm/dt/pipefn.svg)](https://npmjs.org/package/pipefn) ![size](https://img.shields.io/github/size/willin/pipefn/index.js.svg) ![dep](https://img.shields.io/david/willin/pipefn.svg)
 
 ## Usage
 
