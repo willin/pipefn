@@ -1,0 +1,13 @@
+{
+  "name": "pipefn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Pipeline Function Creator",
+  "repository": "git@github.com:willin/pipefn.git",
+  "author": "Willin Wang <willin@willin.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-dwing": "^1.1.0"
+  }
+}
